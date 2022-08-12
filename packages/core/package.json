@@ -1,6 +1,6 @@
 {
     "name": "@jojo-cli-dev/core",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "> TODO: description",
     "author": "zhoujin <jin_zhou@fpi-inc.com>",
     "homepage": "",
@@ -20,7 +20,7 @@
         "jojo-cli-dev": "bin/index.js"
     },
     "dependencies": {
-        "@jojo-cli-dev/utils": "^1.0.0"
+        "@jojo-cli-dev/utils": "^1.0.1"
     },
     "publishConfig": {
         "access": "public"
