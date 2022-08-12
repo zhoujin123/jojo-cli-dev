@@ -1,0 +1,22 @@
+{
+    "name": "@jojo-cli-dev/core",
+    "version": "1.0.0",
+    "description": "> TODO: description",
+    "author": "zhoujin <jin_zhou@fpi-inc.com>",
+    "homepage": "",
+    "license": "ISC",
+    "main": "lib/core.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "scripts": {
+        "test": "node ./__tests__/core.test.js"
+    },
+    "dependencies": {
+        "@jojo-cli-dev/utils": "^1.0.0"
+    }
+}
